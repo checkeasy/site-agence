@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "niches": "Nos solutions",
+    "process": "Comment ca marche",
+    "pricing": "Tarifs",
+    "demo": "Demander une demo",
+    "language": "EN"
+  },
+  "hero": {
+    "badge": "L'agence SaaS sur-mesure",
+    "title1": "Votre metier est unique.",
+    "title2": "Votre logiciel devrait l'etre aussi.",
+    "subtitle": "On cree des logiciels tailles pour votre facon de travailler. Pas un outil generique de plus — un SaaS pense pour VOTRE metier, livre en 4 semaines.",
+    "cta": "Decouvrir ce qu'on peut faire pour vous",
+    "ctaSecondary": "Voir nos realisations",
+    "socialProof": "Deja {count}+ metiers accompagnes"
+  },
+  "problem": {
+    "badge": "Le constat",
+    "title": "Les outils generiques ne comprennent pas votre metier",
+    "subtitle": "Vous meritez mieux qu'un logiciel qui vous force a vous adapter.",
+    "items": [
+      {
+        "icon": "table",
+        "title": "Excel a ses limites",
+        "description": "Vous gerez encore votre activite sur des tableaux Excel, du papier ou des post-its. Ca fonctionne... jusqu'au jour ou ca casse."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Les logiciels generiques sont trop complexes",
+        "description": "Trop de boutons, trop de fonctions inutiles, et celle dont vous avez besoin n'existe pas. Vous payez pour 80% de fonctions que vous n'utilisez jamais."
+      },
+      {
+        "icon": "clock",
+        "title": "Vous perdez un temps fou",
+        "description": "Ressaisir les memes infos, courir apres les factures, relancer les clients a la main... Ce temps-la, vous pourriez le passer sur votre coeur de metier."
+      },
+      {
+        "icon": "brain",
+        "title": "L'IA, c'est flou",
+        "description": "Tout le monde parle d'IA, mais personne ne vous montre concretement comment ca peut vous aider AU QUOTIDIEN dans votre metier."
+      }
+    ]
+  },
+  "solution": {
+    "badge": "La solution",
+    "title": "Un SaaS construit autour de VOTRE metier",
+    "subtitle": "On ne vend pas un logiciel. On construit LE VOTRE.",
+    "items": [
+      {
+        "icon": "microscope",
+        "title": "On analyse votre metier en profondeur",
+        "description": "On echange avec vous pour comprendre votre quotidien, vos galeres, vos processus. Pas de questionnaire generique — une vraie immersion."
+      },
+      {
+        "icon": "wand",
+        "title": "On concoit votre SaaS sur-mesure",
+        "description": "Chaque fonctionnalite est pensee pour VOTRE facon de travailler. Pas de superflu, que de l'utile."
+      },
+      {
+        "icon": "rocket",
+        "title": "Livre en 4 semaines",
+        "description": "Pas 6 mois, pas 1 an. En 4 semaines, vous avez votre outil pret a l'emploi. On s'appuie sur l'IA pour aller vite sans sacrifier la qualite."
+      },
+      {
+        "icon": "piggybank",
+        "title": "Un prix accessible",
+        "description": "Pas de devis a 6 chiffres. Un prix juste, adapte a la taille de votre activite. Setup + abonnement mensuel tout compris."
+      }
+    ]
+  },
+  "process": {
+    "badge": "Comment ca marche",
+    "title": "4 etapes pour digitaliser votre metier",
+    "subtitle": "Simple, rapide, sans prise de tete.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "On echange",
+        "description": "Un appel de 30 minutes pour comprendre votre metier, vos besoins et vos objectifs. Zero engagement, zero jargon technique."
+      },
+      {
+        "number": "02",
+        "title": "On analyse",
+        "description": "Notre equipe + notre IA analysent votre secteur, vos concurrents, vos outils actuels. On identifie les quick wins et les fonctionnalites cles."
+      },
+      {
+        "number": "03",
+        "title": "On construit",
+        "description": "En 4 semaines, on developpe votre SaaS avec une equipe dediee. Vous voyez l'avancement en temps reel et vous validez chaque etape."
+      },
+      {
+        "number": "04",
+        "title": "On vous accompagne",
+        "description": "Formation, support, mises a jour. On ne vous lache pas apres la livraison. Votre SaaS evolue avec votre activite."
+      }
+    ]
+  },
+  "socialProof": {
+    "badge": "Ils nous font confiance",
+    "title": "Des metiers transformes",
+    "subtitle": "Chaque temoignage est une activite qui a change de dimension.",
+    "testimonials": [
+      {
+        "quote": "Avant, je passais 3h par jour sur la paperasse. Maintenant c'est 20 minutes. Mon SaaS gere les devis, la facturation et le suivi client tout seul.",
+        "name": "Marc Dupont",
+        "role": "Garagiste independant",
+        "location": "Lyon",
+        "metric": "-80% de temps administratif"
+      },
+      {
+        "quote": "On m'a toujours dit 'utilise tel CRM, tel outil'. Mais aucun ne comprenait la gestion de chantier dans le batiment. Bar a Features a change la donne.",
+        "name": "Sophie Martin",
+        "role": "Promotrice immobiliere",
+        "location": "Bordeaux",
+        "metric": "+40% de chantiers suivis"
+      },
+      {
+        "quote": "Le logiciel est tellement intuitif que meme mes collegues les moins a l'aise avec la tech l'ont adopte en 2 jours.",
+        "name": "Karim Benali",
+        "role": "Gerant de salon de coiffure",
+        "location": "Marseille",
+        "metric": "2x plus de clients fideles"
+      }
+    ],
+    "stats": [
+      { "value": "47+", "label": "Metiers accompagnes" },
+      { "value": "98%", "label": "Clients satisfaits" },
+      { "value": "4 sem.", "label": "Delai moyen de livraison" },
+      { "value": "-60%", "label": "De temps admin en moyenne" }
+    ]
+  },
+  "niches": {
+    "badge": "Nos solutions",
+    "title": "Un SaaS pour chaque metier",
+    "subtitle": "On a deja accompagne ces secteurs. Le votre est peut-etre le prochain.",
+    "cta": "Decouvrir cette solution",
+    "ctaAll": "Votre metier n'est pas la ? On s'adapte a tout.",
+    "items": [
+      {
+        "slug": "garagistes",
+        "title": "Garagistes",
+        "description": "CRM + gestion d'atelier + devis automatises",
+        "icon": "wrench"
+      },
+      {
+        "slug": "coiffeurs",
+        "title": "Coiffeurs",
+        "description": "Prise de RDV + fidelisation + gestion de stock",
+        "icon": "scissors"
+      },
+      {
+        "slug": "promoteurs-immobiliers",
+        "title": "Promoteurs immobiliers",
+        "description": "Suivi de chantier + commercialisation + CRM",
+        "icon": "building"
+      },
+      {
+        "slug": "osteopathes",
+        "title": "Osteopathes",
+        "description": "Dossier patient + agenda + facturation CPAM",
+        "icon": "heart"
+      },
+      {
+        "slug": "restaurants",
+        "title": "Restaurateurs",
+        "description": "Gestion salle + stocks + commandes fournisseurs",
+        "icon": "utensils"
+      },
+      {
+        "slug": "artisans-btp",
+        "title": "Artisans BTP",
+        "description": "Devis + planning chantier + suivi heures",
+        "icon": "hammer"
+      }
+    ]
+  },
+  "pricing": {
+    "badge": "Tarifs",
+    "title": "Un prix juste, sans surprise",
+    "subtitle": "Pas de devis a rallonge, pas de couts caches. Vous savez exactement ce que vous payez.",
+    "setup": {
+      "label": "Mise en place",
+      "price": "A partir de 4 990 EUR",
+      "description": "Analyse metier + developpement + deploiement",
+      "includes": [
+        "Analyse approfondie de votre metier",
+        "Developpement du SaaS sur-mesure",
+        "Design et UX adaptes a vos utilisateurs",
+        "Formation de votre equipe",
+        "Deploiement et mise en production"
+      ]
+    },
+    "monthly": {
+      "label": "Abonnement",
+      "recommended": "Recommande",
+      "price": "A partir de 149 EUR/mois",
+      "description": "Hebergement + support + evolutions",
+      "includes": [
+        "Hebergement securise et performant",
+        "Support prioritaire par chat et email",
+        "Mises a jour et evolutions continues",
+        "Sauvegarde quotidienne des donnees",
+        "Nouvelles fonctionnalites sur demande"
+      ]
+    },
+    "cta": "Demander un devis personnalise"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Vos questions, nos reponses",
+    "items": [
+      {
+        "question": "Combien de temps pour avoir mon SaaS ?",
+        "answer": "En moyenne 4 semaines entre le premier echange et la livraison. Pour les projets plus complexes, ca peut aller jusqu'a 6 semaines."
+      },
+      {
+        "question": "Je n'y connais rien en tech, c'est grave ?",
+        "answer": "Pas du tout ! C'est meme notre cible preferee. On s'occupe de tout le cote technique. Vous, vous nous expliquez votre metier — et on traduit ca en logiciel."
+      },
+      {
+        "question": "Et si mes besoins changent apres la livraison ?",
+        "answer": "Votre abonnement inclut les evolutions. Votre metier evolue, votre SaaS aussi. On adapte en continu."
+      },
+      {
+        "question": "C'est quoi la difference avec Notion, Monday ou un CRM classique ?",
+        "answer": "Ces outils sont generiques : ils font un peu de tout, mais rien de specifique a votre metier. Notre SaaS est concu POUR votre metier, avec le vocabulaire, les processus et les besoins exacts de votre quotidien."
+      },
+      {
+        "question": "Vous utilisez l'IA ? C'est fiable ?",
+        "answer": "Oui, on utilise l'IA pour accelerer le developpement et integrer des fonctionnalites intelligentes (suggestions, automatisations). Mais l'IA est un outil, pas un remplacement : chaque SaaS est valide par notre equipe humaine."
+      },
+      {
+        "question": "Combien de personnes peuvent utiliser le SaaS ?",
+        "answer": "Autant que vous voulez. On adapte le nombre de licences a la taille de votre equipe. De 1 a 50+ utilisateurs, sans probleme."
+      },
+      {
+        "question": "Mes donnees sont-elles securisees ?",
+        "answer": "Absolument. Hebergement en Europe, chiffrement des donnees, sauvegardes quotidiennes. On prend la securite tres au serieux."
+      }
+    ]
+  },
+  "ctaFinal": {
+    "title": "Pret a avoir un logiciel qui vous ressemble ?",
+    "subtitle": "30 minutes d'echange, zero engagement. On vous montre ce qu'on peut construire pour votre metier.",
+    "cta": "Reserver une demo gratuite",
+    "ctaSecondary": "Nous ecrire",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "business": "Votre metier / secteur",
+      "message": "Parlez-nous de vos besoins (optionnel)",
+      "submit": "Envoyer ma demande",
+      "success": "Merci ! On vous recontacte dans les 24h."
+    }
+  },
+  "footer": {
+    "tagline": "Des logiciels sur-mesure pour les metiers qui comptent.",
+    "links": {
+      "legal": "Mentions legales",
+      "privacy": "Politique de confidentialite",
+      "contact": "Contact"
+    },
+    "copyright": "Bar a Features. Tous droits reserves."
+  }
+}

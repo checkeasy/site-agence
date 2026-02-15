@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Home",
+    "niches": "Solutions",
+    "process": "How it works",
+    "pricing": "Pricing",
+    "demo": "Book a demo",
+    "language": "FR"
+  },
+  "hero": {
+    "badge": "The custom SaaS agency",
+    "title1": "Your business is unique.",
+    "title2": "Your software should be too.",
+    "subtitle": "We build software tailored to the way you work. Not another generic tool — a SaaS designed for YOUR business, delivered in 4 weeks.",
+    "cta": "Discover what we can build for you",
+    "ctaSecondary": "See our work",
+    "socialProof": "Already {count}+ businesses served"
+  },
+  "problem": {
+    "badge": "The problem",
+    "title": "Generic tools don't understand your business",
+    "subtitle": "You deserve better than software that forces you to adapt.",
+    "items": [
+      {
+        "icon": "table",
+        "title": "Excel has its limits",
+        "description": "You still manage your business with spreadsheets, paper, or sticky notes. It works... until it doesn't."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Generic software is too complex",
+        "description": "Too many buttons, too many useless features, and the one you need doesn't exist. You pay for 80% of features you never use."
+      },
+      {
+        "icon": "clock",
+        "title": "You waste hours every day",
+        "description": "Re-entering the same data, chasing invoices, following up with clients manually... You could spend that time on what you do best."
+      },
+      {
+        "icon": "brain",
+        "title": "AI feels abstract",
+        "description": "Everyone talks about AI, but nobody shows you concretely how it can help you in YOUR daily work."
+      }
+    ]
+  },
+  "solution": {
+    "badge": "The solution",
+    "title": "A SaaS built around YOUR business",
+    "subtitle": "We don't sell software. We build YOURS.",
+    "items": [
+      {
+        "icon": "microscope",
+        "title": "We deeply analyze your business",
+        "description": "We talk to you to understand your daily work, your struggles, your processes. No generic questionnaire — a real deep dive."
+      },
+      {
+        "icon": "wand",
+        "title": "We design your custom SaaS",
+        "description": "Every feature is designed for YOUR way of working. No bloat, only what matters."
+      },
+      {
+        "icon": "rocket",
+        "title": "Delivered in 4 weeks",
+        "description": "Not 6 months, not a year. In 4 weeks, you have your tool ready to use. We leverage AI to move fast without sacrificing quality."
+      },
+      {
+        "icon": "piggybank",
+        "title": "Affordable pricing",
+        "description": "No six-figure quotes. Fair pricing, adapted to your business size. Setup + monthly subscription, all included."
+      }
+    ]
+  },
+  "process": {
+    "badge": "How it works",
+    "title": "4 steps to digitize your business",
+    "subtitle": "Simple, fast, hassle-free.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "We talk",
+        "description": "A 30-minute call to understand your business, needs, and goals. Zero commitment, zero technical jargon."
+      },
+      {
+        "number": "02",
+        "title": "We analyze",
+        "description": "Our team + our AI analyze your sector, competitors, and current tools. We identify quick wins and key features."
+      },
+      {
+        "number": "03",
+        "title": "We build",
+        "description": "In 4 weeks, we develop your SaaS with a dedicated team. You see progress in real-time and validate every step."
+      },
+      {
+        "number": "04",
+        "title": "We support you",
+        "description": "Training, support, updates. We don't leave you after delivery. Your SaaS evolves with your business."
+      }
+    ]
+  },
+  "socialProof": {
+    "badge": "They trust us",
+    "title": "Transformed businesses",
+    "subtitle": "Each testimonial represents a business that leveled up.",
+    "testimonials": [
+      {
+        "quote": "Before, I spent 3 hours a day on paperwork. Now it's 20 minutes. My SaaS handles quotes, invoicing, and client follow-up automatically.",
+        "name": "Marc Dupont",
+        "role": "Independent mechanic",
+        "location": "Lyon, France",
+        "metric": "-80% administrative time"
+      },
+      {
+        "quote": "Everyone told me 'use this CRM, that tool'. But none understood construction site management. Bar a Features changed the game.",
+        "name": "Sophie Martin",
+        "role": "Real estate developer",
+        "location": "Bordeaux, France",
+        "metric": "+40% projects tracked"
+      },
+      {
+        "quote": "The software is so intuitive that even my most tech-resistant colleagues adopted it in 2 days.",
+        "name": "Karim Benali",
+        "role": "Hair salon owner",
+        "location": "Marseille, France",
+        "metric": "2x more loyal customers"
+      }
+    ],
+    "stats": [
+      { "value": "47+", "label": "Businesses served" },
+      { "value": "98%", "label": "Client satisfaction" },
+      { "value": "4 wks", "label": "Average delivery time" },
+      { "value": "-60%", "label": "Admin time reduced" }
+    ]
+  },
+  "niches": {
+    "badge": "Solutions",
+    "title": "A SaaS for every business",
+    "subtitle": "We've already helped these sectors. Yours could be next.",
+    "cta": "Discover this solution",
+    "ctaAll": "Don't see your business? We adapt to anything.",
+    "items": [
+      {
+        "slug": "auto-mechanics",
+        "title": "Auto Mechanics",
+        "description": "CRM + workshop management + automated quotes",
+        "icon": "wrench"
+      },
+      {
+        "slug": "hair-salons",
+        "title": "Hair Salons",
+        "description": "Appointment booking + loyalty + stock management",
+        "icon": "scissors"
+      },
+      {
+        "slug": "real-estate-developers",
+        "title": "Real Estate Developers",
+        "description": "Construction tracking + sales + CRM",
+        "icon": "building"
+      },
+      {
+        "slug": "osteopaths",
+        "title": "Osteopaths",
+        "description": "Patient records + scheduling + billing",
+        "icon": "heart"
+      },
+      {
+        "slug": "restaurants",
+        "title": "Restaurants",
+        "description": "Floor management + inventory + supplier orders",
+        "icon": "utensils"
+      },
+      {
+        "slug": "construction-workers",
+        "title": "Construction Workers",
+        "description": "Quotes + site planning + time tracking",
+        "icon": "hammer"
+      }
+    ]
+  },
+  "pricing": {
+    "badge": "Pricing",
+    "title": "Fair pricing, no surprises",
+    "subtitle": "No endless quotes, no hidden costs. You know exactly what you're paying for.",
+    "setup": {
+      "label": "Setup",
+      "price": "Starting at 4,990 EUR",
+      "description": "Business analysis + development + deployment",
+      "includes": [
+        "In-depth analysis of your business",
+        "Custom SaaS development",
+        "Design and UX tailored to your users",
+        "Team training",
+        "Deployment and go-live"
+      ]
+    },
+    "monthly": {
+      "label": "Subscription",
+      "recommended": "Recommended",
+      "price": "Starting at 149 EUR/month",
+      "description": "Hosting + support + updates",
+      "includes": [
+        "Secure, high-performance hosting",
+        "Priority support via chat and email",
+        "Continuous updates and improvements",
+        "Daily data backups",
+        "New features on request"
+      ]
+    },
+    "cta": "Get a custom quote"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Your questions, answered",
+    "items": [
+      {
+        "question": "How long does it take to get my SaaS?",
+        "answer": "On average, 4 weeks from first call to delivery. For more complex projects, it can take up to 6 weeks."
+      },
+      {
+        "question": "I know nothing about tech — is that a problem?",
+        "answer": "Not at all! That's actually our favorite type of client. We handle all the technical stuff. You explain your business — we translate that into software."
+      },
+      {
+        "question": "What if my needs change after delivery?",
+        "answer": "Your subscription includes updates. Your business evolves, your SaaS evolves with it. We adapt continuously."
+      },
+      {
+        "question": "How is this different from Notion, Monday, or a regular CRM?",
+        "answer": "Those tools are generic: they do a bit of everything but nothing specific to your business. Our SaaS is built FOR your business, with the exact vocabulary, processes, and needs of your daily work."
+      },
+      {
+        "question": "Do you use AI? Is it reliable?",
+        "answer": "Yes, we use AI to accelerate development and add smart features (suggestions, automations). But AI is a tool, not a replacement: every SaaS is validated by our human team."
+      },
+      {
+        "question": "How many people can use the SaaS?",
+        "answer": "As many as you want. We adapt the number of licenses to your team size. From 1 to 50+ users, no problem."
+      },
+      {
+        "question": "Is my data secure?",
+        "answer": "Absolutely. European hosting, data encryption, daily backups. We take security very seriously."
+      }
+    ]
+  },
+  "ctaFinal": {
+    "title": "Ready for software that fits like a glove?",
+    "subtitle": "30 minutes, zero commitment. We'll show you what we can build for your business.",
+    "cta": "Book a free demo",
+    "ctaSecondary": "Write to us",
+    "form": {
+      "name": "Your name",
+      "email": "Your email",
+      "business": "Your business / sector",
+      "message": "Tell us about your needs (optional)",
+      "submit": "Send my request",
+      "success": "Thanks! We'll get back to you within 24 hours."
+    }
+  },
+  "footer": {
+    "tagline": "Custom software for the businesses that matter.",
+    "links": {
+      "legal": "Legal notice",
+      "privacy": "Privacy policy",
+      "contact": "Contact"
+    },
+    "copyright": "Bar a Features. All rights reserved."
+  }
+}
