@@ -23,7 +23,7 @@ export default function CTASection() {
   )
 
   return (
-    <section className="bg-[#1A1A1A] py-24 md:py-32">
+    <section id="contact" className="bg-[#1A1A1A] py-24 md:py-32">
       <div className="mx-auto max-w-7xl px-6">
         <div className="grid grid-cols-1 items-center gap-16 lg:grid-cols-2">
           {/* Left column — Text */}

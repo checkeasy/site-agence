@@ -51,7 +51,7 @@ export default function SocialProofSection() {
   const statCount = 4
 
   return (
-    <section className="bg-white py-24 md:py-32">
+    <section id="testimonials" className="bg-white py-24 md:py-32">
       <div className="mx-auto max-w-7xl px-6">
         {/* Header */}
         <motion.div

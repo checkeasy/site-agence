@@ -33,7 +33,7 @@ export default function PricingSection() {
   const monthlyIncludes = t.raw("monthly.includes") as string[]
 
   return (
-    <section className="bg-white py-24 md:py-32">
+    <section id="pricing" className="bg-white py-24 md:py-32">
       <div className="mx-auto max-w-7xl px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

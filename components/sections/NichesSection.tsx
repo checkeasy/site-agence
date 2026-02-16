@@ -47,7 +47,7 @@ export default function NichesSection() {
   const t = useTranslations("niches")
 
   return (
-    <section className="bg-[#FDFAF6] py-24 md:py-32">
+    <section id="solutions" className="bg-[#FDFAF6] py-24 md:py-32">
       <div className="mx-auto max-w-7xl px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

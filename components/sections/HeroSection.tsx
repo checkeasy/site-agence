@@ -249,7 +249,7 @@ export default function HeroSection() {
   const t = useTranslations("hero")
 
   return (
-    <section className="relative overflow-hidden bg-[#FDFAF6] pt-28 pb-20 md:pt-36 md:pb-28 lg:pt-40 lg:pb-32">
+    <section id="hero" className="relative overflow-hidden bg-[#FDFAF6] pt-28 pb-20 md:pt-36 md:pb-28 lg:pt-40 lg:pb-32">
       {/* Subtle background gradients */}
       <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-gradient-to-bl from-[#FF6B4A]/[0.04] via-[#FFB547]/[0.03] to-transparent rounded-full blur-3xl pointer-events-none" />
       <div className="absolute bottom-0 left-0 w-[400px] h-[400px] bg-gradient-to-tr from-[#FFAA8A]/[0.04] to-transparent rounded-full blur-3xl pointer-events-none" />

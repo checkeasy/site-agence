@@ -20,7 +20,7 @@ export default function FAQSection() {
   }
 
   return (
-    <section className="bg-[#FDFAF6] py-24 md:py-32">
+    <section id="faq" className="bg-[#FDFAF6] py-24 md:py-32">
       <div className="mx-auto max-w-3xl px-6">
         {/* Header */}
         <motion.div

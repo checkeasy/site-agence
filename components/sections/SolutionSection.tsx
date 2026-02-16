@@ -39,7 +39,7 @@ export default function SolutionSection() {
   const t = useTranslations("solution")
 
   return (
-    <section className="bg-white py-24 md:py-32">
+    <section id="solution" className="bg-white py-24 md:py-32">
       <div className="mx-auto max-w-7xl px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
